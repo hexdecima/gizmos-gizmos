@@ -1,0 +1,8 @@
+A small little mod for Crunchpuff's Community Server, mostly multiplayer quality of life.
+
+[v0.1]
+- Allows crafting every biome weapon with its respective key and a Temple Key.
+
+Source code available at https://github.com/hexdecima/gizmos-gizmos
+
+It literally doesn't do anything else yet, please just let me publish this mod tMod thx bai
