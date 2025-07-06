@@ -1,8 +1,12 @@
-A small little mod for Crunchpuff's Community Server, mostly multiplayer quality of life.
+A little mod for Crunchpuff's Community Server, mostly multiplayer quality of life.
 
 [v0.1]
 - Allows crafting every biome weapon with its respective key and a Temple Key.
 
-Source code available at https://github.com/hexdecima/gizmos-gizmos
+[v0.2 - 06 July 2025]
+- Adds the secondary loot of some biome house chests to their matching crates (both pre- and hardmode).
+  - For desert crates, Encumbering Stone (33% chance).
+  - For ice crates, Ice Machine (20%) and Ice Mirror (10%).
+  - For jungle crates, Living Mahogany and Leaf wands (20%), Honey Dispenser and Bee Minecart (both 10%).
 
-It literally doesn't do anything else yet, please just let me publish this mod tMod thx bai
+Source code available at https://github.com/hexdecima/gizmos-gizmos
