@@ -22,6 +22,7 @@ namespace GizmosGizmos
         Recipe.Create(weaponId)
           .AddIngredient(keyId)
           .AddIngredient(ItemID.TempleKey)
+          .AddIngredient(ItemID.Ectoplasm, 6)
           .AddTile(TileID.DemonAltar)
           .Register();
       }
@@ -32,6 +33,9 @@ namespace GizmosGizmos
       if (item.type == ItemID.OasisCrate || item.type == ItemID.OasisCrateHard) {
         itemLoot.Add(ItemDropRule.NotScalingWithLuck(ItemID.EncumberingStone, 3));
       }
+      else if (item.type == ItemID.IronCrate || item.type == ItemID.IronCrateHard) {
+        itemLoot.Add(ItemDropRule.NotScalingWithLuck(ItemID.MagicMirror, 10));
+      }
       else if (item.type == ItemID.JungleFishingCrate || item.type == ItemID.JungleFishingCrateHard) {
         itemLoot.Add(ItemDropRule.NotScalingWithLuck(ItemID.LivingMahoganyWand, 5));
         itemLoot.Add(ItemDropRule.NotScalingWithLuck(ItemID.LivingMahoganyLeafWand, 5));
@@ -40,7 +44,7 @@ namespace GizmosGizmos
       }
       else if (item.type == ItemID.FrozenCrate || item.type == ItemID.FrozenCrateHard) {
         itemLoot.Add(ItemDropRule.NotScalingWithLuck(ItemID.IceMachine, 5));
-        itemLoot.Add(ItemDropRule.NotScalingWithLuck(ItemID.IceMirror, 10));
+        itemLoot.Add(ItemDropRule.NotScalingWithLuck(ItemID.IceMirror, 8));
       }
     }
   }

@@ -8,5 +8,9 @@ A little mod for Crunchpuff's Community Server, mostly multiplayer quality of li
   - For desert crates, Encumbering Stone (33% chance).
   - For ice crates, Ice Machine (20%) and Ice Mirror (10%).
   - For jungle crates, Living Mahogany and Leaf wands (20%), Honey Dispenser and Bee Minecart (both 10%).
+[v0.2.1 - 13 July 2025]
+- Adds Magic Mirror as a loot to Iron and Mythril Crates (10%).
+- Increase Ice Mirror drop rate from Ice Crates from 10% to 12.5%.
+- Biome weapon recipes now also require Ectoplasm (so that players now need to enter the dungeon).
 
 Source code available at https://github.com/hexdecima/gizmos-gizmos
