@@ -1,1 +1,37 @@
+Items: {
+	SolarCube: {
+		DisplayName: Solar Cube
+		Tooltip:
+			'''
+			'The wrath of the sun is contained within it.'
+			Right-click to open
+			'''
+	}
 
+	StardustCube: {
+		DisplayName: Stardust Cube
+		Tooltip:
+			'''
+			'The infinity of the stars is contained within it.'
+			Right-click to open
+			'''
+	}
+
+	NebulaCube: {
+		DisplayName: Nebula Cube
+		Tooltip:
+			'''
+			'The might of galaxies is contained within it.'
+			Right-click to open
+			'''
+	}
+
+	VortexCube: {
+		DisplayName: Vortex Cube
+		Tooltip:
+			'''
+			'The energy of the universe is contained within it.'
+			Right-click to open
+			'''
+	}
+}

@@ -1,16 +1,34 @@
-A little mod for Crunchpuff's Community Server, mostly multiplayer quality of life.
+A minimal, multiplayer quality of life mod, made for Crunchpuff's community server.
 
-[v0.1]
-- Allows crafting every biome weapon with its respective key and a Temple Key.
+(Overview)
+- Biome weapons can be crafted.
+- Secondary loot of houses available from crates (except ones that already are, like Ocean ones).
+- Life Fruits as rare drops from jungle enemies and fishing.
+- Expert+ bag-like drops from Lunar Pillars.
 
-[v0.2 - 06 July 2025]
-- Adds the secondary loot of some biome house chests to their matching crates (both pre- and hardmode).
-  - For desert crates, Encumbering Stone (33% chance).
-  - For ice crates, Ice Machine (20%) and Ice Mirror (10%).
-  - For jungle crates, Living Mahogany and Leaf wands (20%), Honey Dispenser and Bee Minecart (both 10%).
-[v0.2.1 - 13 July 2025]
-- Adds Magic Mirror as a loot to Iron and Mythril Crates (10%).
-- Increase Ice Mirror drop rate from Ice Crates from 10% to 12.5%.
-- Biome weapon recipes now also require Ectoplasm (so that players now need to enter the dungeon).
+[Biome Weapons]
+A biome key, Temple Key and some Ectoplasm can be used to craft the matching biome weapon.
 
-Source code available at https://github.com/hexdecima/gizmos-gizmos
+[Crate Loot]
+For iron crates, Magic Mirror (10%).
+For desert crates, Encumbering Stone (33% chance).
+For ice crates, Ice Machine (20%) and Ice Mirror (12.5%).
+For jungle crates, Living Mahogany and Leaf wands (20%), Honey Dispenser and Bee Minecart (both 10%).
+For sky crates, Sky Mill (12.5%).
+
+[Life Fruits]
+As long as at least one mechanical boss has been defeated:
+
+Fishing in the Underground Jungle may rarely yield a Life Fruit
+
+Moss Hornets and Angry Trappers also have a very small (3.33%) chance of dropping a Life Fruit.
+
+[Expert+ Lunar Pillar]
+On Expert, Master and Legendary modes, each pillar will drop a consumable for each player, that grants
+additional fragments when used.
+
+
+[hr][/hr]
+A version changelog is available [url=https://github.com/hexdecima/gizmos-gizmos/CHANGELOG.md]here[/url]
+
+Source code available on [url=https://github.com/hexdecima/gizmos-gizmos]Github[/url]

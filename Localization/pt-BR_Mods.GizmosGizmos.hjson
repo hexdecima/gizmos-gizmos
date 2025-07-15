@@ -1,0 +1,37 @@
+Items: {
+	SolarCube: {
+		DisplayName: Cubo Solar
+		Tooltip:
+			'''
+			'A ira do sol é aqui contida.'
+			Botão direito para abrir
+			'''
+	}
+
+	StardustCube: {
+		DisplayName: Cubo Estelar
+		Tooltip:
+			'''
+			'A infinidade das estrelas é aqui contida.'
+			Botão direito para abrir
+			'''
+	}
+
+	NebulaCube: {
+		DisplayName: Cubo Nebular
+		Tooltip:
+			'''
+			'O poder das galáxias é aqui contido.'
+			Botão direito para abrir
+			'''
+	}
+
+	VortexCube: {
+		DisplayName: Cubo Vórtice
+		Tooltip:
+			'''
+			'A energia do universo é aqui contida.'
+			Botão direito para abrir
+			'''
+	}
+}
