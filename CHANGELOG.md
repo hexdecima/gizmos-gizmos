@@ -19,3 +19,7 @@
 - Life Crystals can be crafted from Life Fruits in graveyards/ecto mist.
 - On Expert+ modes, the Lunar Pillars now drop a cube for each player, containing 16-22 extra fragments.
 - Adds Sky Mill to the loot pool of Sky and Azure Crates (12.5%).
+
+`[v0.3.1 - 20 July 2025]`
+- Adds Meteorite Bars to the loot pool of Obsidian Lock Boxes (50%, 6-14).
+- Fixes link to changelog.

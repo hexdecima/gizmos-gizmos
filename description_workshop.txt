@@ -15,6 +15,7 @@ For desert crates, Encumbering Stone (33% chance).
 For ice crates, Ice Machine (20%) and Ice Mirror (12.5%).
 For jungle crates, Living Mahogany and Leaf wands (20%), Honey Dispenser and Bee Minecart (both 10%).
 For sky crates, Sky Mill (12.5%).
+For obsidian lock boxes, Meteorite Bars (50%, 6-14)
 
 [Life Fruits]
 As long as at least one mechanical boss has been defeated:
@@ -29,6 +30,6 @@ additional fragments when used.
 
 
 [hr][/hr]
-A version changelog is available [url=https://github.com/hexdecima/gizmos-gizmos/CHANGELOG.md]here[/url]
+A version changelog is available [url=https://github.com/hexdecima/gizmos-gizmos/blob/main/CHANGELOG.md]here[/url]
 
 Source code available on [url=https://github.com/hexdecima/gizmos-gizmos]Github[/url]

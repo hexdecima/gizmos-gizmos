@@ -54,5 +54,8 @@ public class GizmoGlobalItem: GlobalItem {
     else if (item.type == ItemID.FloatingIslandFishingCrate || item.type == ItemID.FloatingIslandFishingCrateHard) {
       itemLoot.Add(ItemDropRule.NotScalingWithLuck(ItemID.SkyMill, 8));
     }
+    else if (item.type == ItemID.ObsidianLockbox) {
+      itemLoot.Add(ItemDropRule.NotScalingWithLuck(ItemID.MeteoriteBar, 2, 6, 14));
+    }
   }
 }
