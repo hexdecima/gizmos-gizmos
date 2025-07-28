@@ -34,4 +34,9 @@ Items: {
 			Botão direito para abrir
 			'''
 	}
+
+	NatureCharm: {
+		DisplayName: Feitiço da Natureza
+		Tooltip: Invoca a Plantera
+	}
 }

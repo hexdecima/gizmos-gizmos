@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 using Terraria.DataStructures;
 using Microsoft.Xna.Framework;
 
-namespace GizmosGizmos;
+namespace GizmosGizmos.Content;
 
 public class GizmoPlayer: ModPlayer {
   public override void CatchFish(

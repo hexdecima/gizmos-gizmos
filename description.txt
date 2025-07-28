@@ -5,17 +5,19 @@ A minimal, multiplayer quality of life mod, made for Crunchpuff's community serv
 - Secondary loot of houses available from crates (except ones that already are, like Ocean ones).
 - Life Fruits as rare drops from jungle enemies and fishing.
 - Expert+ bag-like drops from Lunar Pillars.
+- A craftable Plantera summon.
+- Queen Slime has a small chance of dropping another of her summon.
 
 [Biome Weapons]
 A biome key, Temple Key and some Ectoplasm can be used to craft the matching biome weapon.
 
 [Crate Loot]
-For iron crates, Magic Mirror (10% chance).
+For iron crates, Magic Mirror (10% chance) and Shoe Spikes (16.6%).
 For desert crates, Encumbering Stone (33%).
 For ice crates, Ice Machine (20%) and Ice Mirror (12.5%).
 For jungle crates, Living Mahogany and Leaf wands (20%), Honey Dispenser and Bee Minecart (both 10%).
 For sky crates, Sky Mill (12.5%).
-For obsidian lock boxes, Meteorite Bars (50%, 6-14)
+For obsidian lock boxes, Meteorite and Hellstone.
 
 [Life Fruits]
 As long as at least one mechanical boss has been defeated:

@@ -23,3 +23,11 @@
 `[v0.3.1 - 20 July 2025]`
 - Adds Meteorite Bars to the loot pool of Obsidian Lock Boxes (50%, 6-14).
 - Fixes link to changelog.
+
+`[v0.3.2 - 27 July 2025]`
+- Adds a Plantera summon item, the Nature Charm (crafted with souls and Chlorophyte).
+- Remove Meteorite Bars from Obsidan Lock Boxes.
+- Adds Meteorites to the loot pool of Obsidian Lock Boxes (50%. 12-24).
+- Adds Hellstone to the loot pool of Obsidian Lock Boxes (50%, 6-16).
+- Adds Shoe Spikes to the loot pool of Iron/Mythril Crates (16.6%).
+- Queen Slime now has a 10% chance of dropping a Gelatinous Crystal.
