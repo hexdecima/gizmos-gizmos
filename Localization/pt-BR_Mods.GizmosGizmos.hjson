@@ -39,4 +39,22 @@ Items: {
 		DisplayName: Feitiço da Natureza
 		Tooltip: Invoca a Plantera
 	}
+
+	GospelOfLunacy: {
+		DisplayName: Gospel Lunático
+		Tooltip:
+			'''
+			Invoca o Cultista Lunático
+			Não pode ser usado enquanto criaturas celestiais invadem
+			'''
+	}
+
+	InvitationToTheLight: {
+		DisplayName: Convite Luminoso
+		Tooltip:
+			'''
+			Invoca a Imperatriz da Luz
+			Pode ser usado em qualquer lugar e a qualquer hora
+			'''
+	}
 }

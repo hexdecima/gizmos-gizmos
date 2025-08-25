@@ -5,7 +5,7 @@ A minimal, multiplayer quality of life mod, made for Crunchpuff's community serv
 - Secondary loot of houses available from crates (except ones that already are, like Ocean ones).
 - Life Fruits as rare drops from jungle enemies and fishing.
 - Expert+ bag-like drops from Lunar Pillars.
-- A craftable Plantera summon.
+- A craftable Plantera and Lunatic Cultist summon (+ droppable EoL summon).
 - Queen Slime has a small chance of dropping another of her summon.
 
 [Biome Weapons]

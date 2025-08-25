@@ -39,4 +39,22 @@ Items: {
 		DisplayName: Nature Charm
 		Tooltip: Summons Plantera
 	}
+
+	GospelOfLunacy: {
+		DisplayName: Gospel of Lunacy
+		Tooltip:
+			'''
+			Summons the Lunatic Cultist
+			Cannot be used if celestial creatures are invading
+			'''
+	}
+
+	InvitationToTheLight: {
+		DisplayName: Invitation To The Light
+		Tooltip:
+			'''
+			Summons the Empress of Light
+			Can be used anywhere at anytime
+			'''
+	}
 }

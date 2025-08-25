@@ -27,6 +27,12 @@ class GizmoGlobalNPC: GlobalNPC {
       case NPCID.QueenSlimeBoss:
         npcLoot.Add(ItemDropRule.NotScalingWithLuck(ItemID.QueenSlimeCrystal, 10));
         break;
+      case NPCID.Pixie:
+        npcLoot.Add(ItemDropRule.NotScalingWithLuck(ModContent.ItemType<InvitationToTheLight>(), 66));
+        break;
+      case NPCID.Unicorn:
+        npcLoot.Add(ItemDropRule.NotScalingWithLuck(ModContent.ItemType<InvitationToTheLight>(), 40));
+        break;
       default:
         break;
     }

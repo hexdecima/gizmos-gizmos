@@ -31,3 +31,7 @@
 - Adds Hellstone to the loot pool of Obsidian Lock Boxes (50%, 6-16).
 - Adds Shoe Spikes to the loot pool of Iron/Mythril Crates (16.6%).
 - Queen Slime now has a 10% chance of dropping a Gelatinous Crystal.
+
+`[v0.3.3 - 25 August 2025]`
+- Adds an Empress of Light summon item, the Invitation to the Light (rarely dropped by Pixies and Unicorns).
+- Adds a Lunatic Cultist summon item, the Gospel of Lunacy (crafted with late-Hardmode materials).
